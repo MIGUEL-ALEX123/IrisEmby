@@ -1,5 +1,5 @@
 # IrisEmby
-mihomo rules for IrisEmby
+mihomo rules for Iris Emby
 
 主线路（可尝试直连）
 https://iris.niceduck.lol:443
