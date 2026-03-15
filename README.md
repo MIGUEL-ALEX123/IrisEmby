@@ -35,5 +35,5 @@ rules:
 
 # Acknowledgement
 - [https://t.me/IrisEmby_Bot](https://t.me/IrisEmby_Bot)
-- [https://t.me/Iris_notice](https://t.me/IrisEmby_Bot)
-- [https://t.me/IrisEmby_Group](https://t.me/IrisEmby_Bot)
+- [https://t.me/Iris_notice](https://t.me/Iris_notice)
+- [https://t.me/IrisEmby_Group](https://t.me/IrisEmby_Group)
