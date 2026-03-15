@@ -18,3 +18,8 @@ https://byteiris.iris520.us:443
 
 CF 优选 IP（直连效果受地区和运营商影响）
 http://cf.iris520.us:80
+
+# Acknowledgement
+[https://t.me/IrisEmby_Bot](https://t.me/IrisEmby_Bot)
+[https://t.me/Iris_notice](https://t.me/IrisEmby_Bot)
+[https://t.me/IrisEmby_Group](https://t.me/IrisEmby_Bot)
